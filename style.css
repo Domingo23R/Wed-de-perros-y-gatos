@@ -1,0 +1,55 @@
+body{
+    background-color:darkslategrey;
+    color:rgb(255, 255, 255);
+    border-color:aqua;
+    padding:0% 15% 10% 15%;
+    margin:0% 150px 0% 150px;
+}
+img{
+    width:400px;
+    border-width: 10px;;
+    border-color:rgb(47, 255, 147);
+    border-radius: 45%;
+}
+
+div{
+  color:antiquewhite;  
+}
+ 
+.h2{
+    text-align: center;
+    color:burlywood;
+    font-size:40px;
+    margin-top: 20%;
+}
+
+main{
+    font-size: 20px;
+    text-align: center;
+}
+
+.Derechos-de-autor{
+    text-align: center;
+    color:blueviolet;
+}
+
+.facebook{
+    width: 25px;
+    text-align: center;
+    color:violet;
+}
+
+.Instagram{
+      width: 35px;;
+      text-align: center;
+      color:violet;
+}
+
+.Enlace{
+    color:blueviolet;
+}
+
+.lista{
+    text-align: center;
+    color:coral;
+}
